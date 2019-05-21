@@ -22,7 +22,7 @@ social:
     #- icon: fa-facebook
      # link: "https://www.facebook.com/tjamadar"
     #- icon: fa-twitter
-     # link: "https://twitter.com/tmjam3011"
+     # link: 
     #- icon: fa-linkedin
       #link: "https://www.linkedin.com/in/tauseef-jamadar-5b577913/"
     # - icon: fa-stack-exchange
@@ -31,8 +31,8 @@ social:
       link: "https://github.com/doug-murdoch"
 
 #share:
-  #twitter_username: tmjam3011
-  # fb_appid: 1749788565247320
+  #twitter_username: 
+  # fb_appid: 
 
 urls:
     - text: CV
