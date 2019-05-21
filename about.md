@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /CV/
 ---
 <p>
-Please find my cv here.
+Please find my cv below.
 </p>
 
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
 ## CV
-<iframe src="https://drive.google.com/open?id=1RkZglF9IHraLPkmSeWNABwcyqOdimBfO" width="100%" height="900"></iframe>
+<iframe src="https://drive.google.com/file/d/1RkZglF9IHraLPkmSeWNABwcyqOdimBfO/view?usp=sharing" width="100%" height="900"></iframe>
