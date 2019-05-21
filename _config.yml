@@ -41,8 +41,8 @@ urls:
       url: /projects/
     #- text: Blogs
       #url: /blogs/
-    - text: XML Feed
-      url: /feed.xml
+    #- text: XML Feed
+      #url: /feed.xml
 # url: "http://localhost:4000"
 url: "https://doug-murdoch.github.io/"
 baseurl: ""
