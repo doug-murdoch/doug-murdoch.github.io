@@ -10,4 +10,5 @@ Please find my cv below.
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
 ## CV
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSnKPnAwCLGl3xchhaAy8s_X7MxcF8sS0uCgeqiEccVV0AkceJma2lbZhbyPHBF2XENBcP53sjotxu8/pub"></iframe>
+<iframe src="https://drive.google.com/file/d/1RkZglF9IHraLPkmSeWNABwcyqOdimBfO/view?usp=sharing
+"></iframe>
