@@ -8,9 +8,9 @@ github: https://github.com/doug-murdoch
 about: I am a Ph.D. candidate at the University of Houston in Political Science.
 #disqus_shortname: programming
 #google_analytics: UA-31048387-6
-#avatar_url: /static/img/me.jpg
+avatar_url: /static/img/me.jpg
 
-enableTags: true
+enableTags: true$
 tagarray: []
 
 collections:
@@ -30,17 +30,15 @@ social:
     - icon: fa-github
       link: "https://github.com/doug-murdoch"
 
-#share:
-  #twitter_username: 
-  # fb_appid: 
+
 
 urls:
     - text: CV
       url: /CV/
     - text: Projects
       url: /projects/
-    #- text: Blogs
-      #url: /blogs/
+    - text: Dissertation
+      url: /dissertation/
     #- text: XML Feed
       #url: /feed.xml
 # url: "http://localhost:4000"
