@@ -10,4 +10,4 @@ Please find my cv below.
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
 ## CV
-{{ site.baseurl }}/path/to/css.css
+{{ site.baseurl }}/static/css/Murdoch_CV_521.pdf
