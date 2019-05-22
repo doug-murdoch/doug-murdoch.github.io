@@ -38,7 +38,7 @@ urls:
     - text: Projects
       url: /projects/
     - text: Dissertation
-      url: /dissertation/
+      url: /blog/
     #- text: XML Feed
       #url: /feed.xml
 # url: "http://localhost:4000"
