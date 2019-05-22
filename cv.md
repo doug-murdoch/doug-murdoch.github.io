@@ -10,4 +10,5 @@ Please find my cv below.
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
 ## CV
-{{ site.baseurl }}/static/css/Murdoch_CV_521.pdf
+
+<a href="doug-murdoch.github.io/static/css/Murdoch_CV_521.pdf" target="_blank">PDF.</a>
