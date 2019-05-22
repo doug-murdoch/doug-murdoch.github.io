@@ -1,5 +1,5 @@
 title: Doug Murdoch
-description: Stuff that I come across and find interesting.
+#description: Stuff that I come across and find interesting.
 author: Doug Murdoch
 email: dmurdoch@uh.edu 
 email: doug.murdoch.dm@gmail.com
@@ -10,7 +10,7 @@ about: Ph.D. candidate at the University of Houston in Political Science.
 #google_analytics: UA-31048387-6
 avatar_url: /static/img/me.jpeg
 
-enableTags: true$
+#enableTags: true$
 tagarray: []
 
 collections:
