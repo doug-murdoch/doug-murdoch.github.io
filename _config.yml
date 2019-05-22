@@ -10,13 +10,13 @@ about: Ph.D. candidate at the University of Houston in Political Science.
 #google_analytics: UA-31048387-6
 avatar_url: /static/img/me.jpeg
 
-#enableTags: true$
-#tagarray: []
+enableTags: true$
+tagarray: []
 
-collections:
-  project:
-    output: true
-    permalink: /project/:path/
+#collections:
+  #project:
+    #output: true
+    #permalink: /project/:path/
 
 social:
     #- icon: fa-facebook
