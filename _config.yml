@@ -43,10 +43,10 @@ urls:
       #url: /feed.xml
 # url: "http://localhost:4000"
 url: "https://doug-murdoch.github.io/"
-baseurl: "https://github.com/doug-murdoch"
-paginate: 20
-per_page: 20
-paginate_path: "/blogs/page/:num/"
+baseurl: ""
+#paginate: 20
+#per_page: 20
+#paginate_path: "/blogs/page/:num/"
 markdown: kramdown
 gems:
   - jekyll-paginate
