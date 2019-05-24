@@ -14,4 +14,4 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 [CV]("https://github.com/doug-murdoch/doug-murdoch.github.io/raw/master/Murdoch_CV_521.pdf").
 
 
-<a target='_blank' href={require('https://github.com/doug-murdoch/doug-murdoch.github.io/raw/master/Murdoch_CV_521.pdf')}>PDF Doc</a>
+<a target='_blank' href={require("https://github.com/doug-murdoch/doug-murdoch.github.io/raw/master/Murdoch_CV_521.pdf")}>PDF Doc</a>
