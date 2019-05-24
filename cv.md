@@ -13,6 +13,7 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 
 
 <a class="nav-link" 
+  target="_blank"
   href="https://github.com/doug-murdoch/doug-murdoch.github.io/raw/master/Murdoch_CV_521.pdf" 
-  target="_blank">CV</a>
+  >CV</a>
 
