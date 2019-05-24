@@ -11,6 +11,6 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 
 ## CV
 
-[CV]("doug-murdoch.github.io/Murdoch_CV_521.pdf")
+[CV]("https://github.com/doug-murdoch/doug-murdoch.github.io/raw/master/Murdoch_CV_521.pdf")
 
 
